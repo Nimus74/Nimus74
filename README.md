@@ -68,6 +68,41 @@ Prototypes for **AI-powered knowledge assistants** built on Retrieval-Augmented 
 
 ---
 
+## Featured Projects
+
+### VisionTech — Animal vs Vehicle Recognition
+Computer Vision system based on PyTorch CNNs for detecting animals and vehicles in images.  
+Includes a full ML pipeline with training, evaluation, error analysis and an optional Streamlit demo.
+
+Repository  
+https://github.com/Nimus74/visiontech-animal-vehicle-recognition
+
+---
+
+### Food Image Classification — Deep Learning
+Deep learning pipeline for food classification using PyTorch and transfer learning architectures.
+
+Repository  
+https://github.com/Nimus74/food-image-classification-cnn
+
+---
+
+### Flower Recognition — Computer Vision
+Image classification project exploring modern CNN architectures with interpretability techniques such as Grad-CAM.
+
+Repository  
+https://github.com/Nimus74/flower-recognition-cnn
+
+---
+
+### Sentiment Analysis — NLP Pipeline
+Natural Language Processing project for sentiment analysis with an ML pipeline and evaluation workflow.
+
+Repository  
+https://github.com/Nimus74/sentiment-analysis-mlops
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**
