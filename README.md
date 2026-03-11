@@ -1,71 +1,109 @@
-# Hi, I'm Francesco Scarano
+# Francesco Scarano
 
-**IT Manager | AI Engineering | Data & ML | Solution Architecture**
+**Senior IT Manager | AI Engineering | Data & Digital Solutions**
 
-I work at the intersection of **IT infrastructure, software platforms, data, and applied AI**.  
-My background combines hands-on experience in **enterprise IT management** with a strong focus on **AI Engineering, Machine Learning, Computer Vision, data workflows, and digital solutions architecture**.
+I work at the intersection of **enterprise IT management, software systems, data engineering, and applied artificial intelligence**.
 
-I enjoy building practical systems that connect **technology, business processes, and intelligent automation**.
+With a background in **Computer Engineering and ICT Management**, and current specialization in **AI Engineering and AI Solution Architecture**, my work focuses on designing and implementing technology solutions that connect **infrastructure, data, and intelligent automation** to real business processes.
 
----
-
-## What I work on
-
-- **AI Engineering**: machine learning pipelines, computer vision, LLM-based applications, prompt workflows
-- **Data & Analytics**: data modeling, BI, synthetic datasets, reporting and decision support
-- **Software Solutions**: FastAPI, React, Streamlit, PostgreSQL, end-to-end prototype development
-- **IT & Infrastructure**: virtualization, networking, enterprise platforms, systems integration
-- **Applied Innovation**: AI solutions for education, business processes, digital services, and operational efficiency
+My goal is not only to experiment with AI, but to **turn AI capabilities into practical and reliable systems**.
 
 ---
 
-## Featured Projects
+## What I do
 
-Here are some of the projects I’m working on and publishing on GitHub:
+My work spans multiple areas of the technology stack:
 
-- **Flower Recognition — Computer Vision project**  
-  Binary flower classification with PyTorch, transfer learning, calibration analysis, Grad-CAM and test-time augmentation.
+- **AI Engineering & Machine Learning**
+  - Computer Vision projects
+  - LLM-based systems and prompt engineering
+  - Retrieval-Augmented Generation (RAG)
+  - AI-powered automation workflows
 
-- **AI Teaching LAB**  
-  An AI-powered platform for educational content generation, prompt-driven workflows, and structured output generation.
+- **Data & Analytics**
+  - Data modeling and pipelines
+  - Synthetic dataset generation
+  - Business Intelligence and data-driven decision support
 
-- **VisionTech Solutions**  
-  Computer vision applications for recognition and intelligent monitoring scenarios.
+- **Software & AI Prototyping**
+  - Python-based ML pipelines
+  - FastAPI backends
+  - Streamlit and interactive AI tools
+  - React-based interfaces
 
-- **Synthetic Dataset Generator**  
-  Tools for generating realistic synthetic datasets for business, marketing, finance, and learning scenarios.
+- **Enterprise IT Architecture**
+  - Infrastructure and virtualization (VMware)
+  - Networking and systems integration
+  - CRM / ERP ecosystems
+  - Digital platforms for education and services
 
-- **RAG / Knowledge Assistant Projects**  
-  Retrieval-augmented solutions for internal knowledge bases, documentation workflows, and AI support systems.
+I particularly enjoy working on **projects that combine AI with real operational systems**.
+
+---
+
+## Selected Projects
+
+Some of the projects I am currently developing and publishing on GitHub include:
+
+### Flower Recognition — Computer Vision
+Deep learning system for flower classification using **PyTorch and transfer learning**.  
+Includes architecture comparison (ResNet, EfficientNet, ConvNeXt), threshold tuning, calibration analysis, Grad-CAM interpretability, and test-time augmentation.
+
+### AI Teaching LAB
+AI-powered platform for generating educational content and structured learning workflows using prompt-driven pipelines and backend AI services.
+
+### VisionTech Solutions
+Computer vision experiments for object and pattern recognition in real-world monitoring scenarios.
+
+### Synthetic Dataset Generator
+Tools for generating realistic synthetic datasets for **business, marketing, finance, HR, and operational scenarios**, useful for training and experimentation.
+
+### Knowledge Assistant / RAG Experiments
+Prototypes for **AI-powered knowledge assistants** built on Retrieval-Augmented Generation pipelines.
 
 ---
 
 ## Tech Stack
 
-**Languages & Core Tools**  
-Python · SQL · PHP · HTML · CSS · JavaScript
+**Languages**
 
-**AI / Data**  
-PyTorch · scikit-learn · pandas · NumPy · Computer Vision · LLM workflows · RAG
+Python · SQL · JavaScript · PHP · HTML · CSS
 
-**Backend / Apps**  
+**AI / Data**
+
+PyTorch · scikit-learn · pandas · NumPy  
+Computer Vision · Machine Learning · LLM workflows · RAG
+
+**Backend & Applications**
+
 FastAPI · Streamlit · PostgreSQL · MySQL · React
 
-**Infra / Platforms**  
-VMware · Networking · Wi-Fi · Moodle · CRM / ERP systems · Qlik
+**Infrastructure & Platforms**
+
+VMware · Networking · Enterprise IT systems  
+Moodle · CRM / ERP platforms · Business Intelligence (Qlik)
 
 ---
 
-## Currently focused on
+## Current Focus
 
-- AI Engineering and Solution Architecture
-- Computer Vision projects
+- Applied AI Engineering
+- Computer Vision systems
 - LLM applications for business and education
-- Data-centric product design
-- Turning prototypes into robust, real-world solutions
+- Data-centric architectures
+- AI-driven digital solutions
 
 ---
 
+## About this GitHub
+
+This GitHub profile is used to publish **technical experiments, AI projects, and applied solutions** developed during my work and advanced studies in AI Engineering.
+
+The repositories here focus on **practical implementations rather than purely theoretical work**.
+
+---
+
+*"Technology is most powerful when it connects infrastructure, data, and intelligence into real-world solutions."*
 ## Connect with me
 
 - **GitHub**: [Nimus74](https://github.com/Nimus74)
