@@ -1,5 +1,10 @@
 # Francesco Scarano
 
+![Python](https://img.shields.io/badge/Python-ML-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![AI](https://img.shields.io/badge/AI-Engineering-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
+
 **Senior IT Manager | AI Engineering | Data & Digital Solutions**
 
 I work at the intersection of **enterprise IT management, software systems, data engineering, and applied artificial intelligence**.
@@ -10,7 +15,7 @@ My goal is not only to experiment with AI, but to **turn AI capabilities into pr
 
 ---
 
-## What I do
+## 🚀 What I do
 
 My work spans multiple areas of the technology stack:
 
@@ -41,7 +46,7 @@ I particularly enjoy working on **projects that combine AI with real operational
 
 ---
 
-## Selected Projects
+## 🧠 Selected Projects
 
 Some of the projects I am currently developing and publishing on GitHub include:
 
@@ -63,7 +68,7 @@ Prototypes for **AI-powered knowledge assistants** built on Retrieval-Augmented 
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -85,7 +90,7 @@ Moodle · CRM / ERP platforms · Business Intelligence (Qlik)
 
 ---
 
-## Current Focus
+## 🔭 Current Focus
 
 - Applied AI Engineering
 - Computer Vision systems
@@ -104,7 +109,8 @@ The repositories here focus on **practical implementations rather than purely th
 ---
 
 *"Technology is most powerful when it connects infrastructure, data, and intelligence into real-world solutions."*
-## Connect with me
+
+## 🌐 Connect with me
 
 - **GitHub**: [Nimus74](https://github.com/Nimus74)
 - **LinkedIn**: *https://www.linkedin.com/in/francescoscarano/*
